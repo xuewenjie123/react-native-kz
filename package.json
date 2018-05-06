@@ -1,0 +1,21 @@
+{
+  "name": "HX",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@zzzkk2009/react-native-baidu-map": "^1.0.6",
+    "react": "15.4.2",
+    "react-native": "0.42.3",
+    "react-native-baidu-location": "0.0.3",
+    "react-native-image-crop-picker": "^0.13.1",
+    "react-native-image-picker": "^0.26.3",
+    "react-native-notifications": "^1.1.11",
+    "react-native-percentage-circle": "1.0.6",
+    "react-native-swift-socketio": "0.0.6",
+    "react-native-swiper": "^1.5.4",
+    "react-native-websocket": "^1.0.0"
+  }
+}
